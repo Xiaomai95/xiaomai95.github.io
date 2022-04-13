@@ -1,3 +1,8 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  p {
+     font-family: Lobster, "Open Sans";
+    }
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Xiaomai95/xiaomai95.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
